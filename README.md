@@ -103,3 +103,7 @@ Ref: treino_exercicios.exercicio_id > exercicios.id
 Ref: progresso.user_id > users.id
 Ref: progresso.professor_id > users.id
 Ref: frequencias.user_id > users.id
+
+
+<img width="1193" height="1148" alt="Untitled (4)" src="https://github.com/user-attachments/assets/f9198c9a-e02a-48af-aab7-97d67f1a8815" />
+
